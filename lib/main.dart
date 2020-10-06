@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 // snap 4 - base state
 class MyApp extends StatelessWidget {
+
+    //snap 6
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
