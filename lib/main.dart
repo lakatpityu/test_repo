@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// snap 2
 void main() => runApp(MyApp());
 // snap 1
 class MyApp extends StatelessWidget {
